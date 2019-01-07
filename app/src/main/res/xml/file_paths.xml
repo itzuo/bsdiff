@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource>
+
+    <paths>
+        <external-path name="my_bsdiff" path="" />
+    </paths>
+</resource>
